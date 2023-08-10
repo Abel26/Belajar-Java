@@ -19,5 +19,12 @@ Java terkenal mempunyai Library yang lengkap. Library merupakan sekumpulan fungs
 3. Mudah untuk dikembangkan
 Setiap aplikasi atau program yang dibuat menggunakan Java dapat dengan mudah  dikembangkan oleh pengembang selanjutnya. Karena Bahasa pemograman java merupakan salah satu Bahasa yang paling banyak digunakan saat ini.
 
+4. Berorientasi Objek
+Berorientasi objek disini ialah setiap aplikasi yang dibangung dengan menggunakan bahasa pemrograman java akan disesuaikan dengan objek.
+
+- Kekurangan -
+1. Memerlukan Memori yang besar
+Program berbasis java memerlukan memori yang besar dikarenakan Java Virtual Machine membutuhkan data dalam pengumpulan sampah memori , pembuatan kelas, dan lainnya. Seluruh proses tersebut akan menghabiskan banyak memori atau RAM.
+
 2. Mudah diambil Source codenya
 Source code atau script yang dibuat menggunakan java dapat dengan mudah diambil bahkan dibajak oleh orang lain, sehingga banyak pengcopyan aplikasi yang menggunakan Java.
